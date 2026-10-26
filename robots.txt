@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ericcardenosa.github.io/sitemap.xml
